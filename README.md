@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @lukystreik
 - 👀 I’m interested in IaC, k8s, docker and IOT 
 - 🌱 I’m currently learning terraform / Azure / AWS provisioning
-- 💞️ I’m looking to collaborate on ...
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me on twitter or at e-mail lukystreik(at)volx-rz.de
 
-I´, the maintainer of the volx-rz-pmwiki docker repo on dockerhub
+I’m the maintainer of the volx-rz-pmwiki docker repo on dockerhub
 
 <!---
 lukystreik/lukystreik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
